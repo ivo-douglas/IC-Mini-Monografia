@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  26 MAY 2020 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  31 MAY 2020 02:14
 entering extended mode
 **"./E-Gov e Aplicativo Auxílio Emergencial Caixa.tex"
 ("E-Gov e Aplicativo Auxílio Emergencial Caixa.tex"
@@ -383,20 +383,21 @@ LaTeX Warning: Citation `boulic:91' on page 2 undefined on input line 101.
 
 LaTeX Warning: Citation `smith:99' on page 2 undefined on input line 101.
 
+[2]
 No file "E-Gov e Aplicativo Auxílio Emergencial Caixa".bbl.
-[2] ("E-Gov e Aplicativo Auxílio Emergencial Caixa.aux")
+[3] ("E-Gov e Aplicativo Auxílio Emergencial Caixa.aux")
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3461 strings out of 480799
- 53422 string characters out of 2892982
- 315281 words of memory out of 3000000
- 19412 multiletter control sequences out of 15000+200000
+ 3462 strings out of 480799
+ 53430 string characters out of 2892982
+ 316281 words of memory out of 3000000
+ 19413 multiletter control sequences out of 15000+200000
  546178 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,29p,490b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,29p,603b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Hydrogeddon/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/
 8r.enc}<C:/Users/Hydrogeddon/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmr8.pfb><C:/Users/Hydrogeddon/AppData/Local/Programs/MiKTeX 2.9
@@ -404,10 +405,10 @@ ic/amsfonts/cm/cmr8.pfb><C:/Users/Hydrogeddon/AppData/Local/Programs/MiKTeX 2.9
 MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Hydrogeddon/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Hydrogeddon/Ap
 pData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "E-Gov e Aplicativo Auxílio Emergencial Caixa.pdf" (2 pages,
- 71935 bytes).
+Output written on "E-Gov e Aplicativo Auxílio Emergencial Caixa.pdf" (3 pages,
+ 73784 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
