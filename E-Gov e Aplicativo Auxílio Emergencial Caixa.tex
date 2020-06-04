@@ -21,7 +21,6 @@
 \usepackage[brazil]{babel}   
 \usepackage[utf8]{inputenc}  
 
-
 \begin{document} 
      
 \sloppy
@@ -31,8 +30,6 @@
 \author{Danilo dos Santos de Oliveira, Douglas Ivo Martins de Moraes}
 
 \maketitle
-
-
 
 \begin{abstract}
   This meta-paper describes the style to be used in articles and short papers
@@ -55,23 +52,19 @@
 
 \section{Contextualizar e definir o problema atacado pelo produto e/ou tecnologia de informação alvo} \label{sec:firstpage}
 
-	No atual estado da pandemia que agrava o mundo várias crises e problemas estão surgindo, dentre eles se encontra o desemprego. Sendo assim, como uma forma de o governo solucionar esse problema foi criado o auxílo emergencial e a Caixa Econônimica Federal ficou responsável pela iniciativa, o intuito é conceder o valor de R\$ 600 somente para aqueles que sofrem o risco de serem afetados pelo desemprego ou ainda pela deficiência econômica causada pela pandêmia.
+	No atual estado da pandemia que agrava o mundo várias crises e problemas estão surgindo, dentre eles se encontra o desemprego. Sendo assim, como uma forma de o governo solucionar esse problema foi criado o auxílo emergencial e a Caixa Econônimica Federal ficou responsável pela distribuição do benefício, o intuito é conceder o valor de R\$ 600 somente para aqueles que sofrem o risco de serem afetados pelo desemprego ou ainda pela deficiência econômica causada pela pandêmia.
+
 \subsection{Regras do auxílio emergêncial}	
-Com isso, o auxílio emergência visa contemplar somente aqueles com:
-\linebreak
-\linebreak
-*idade; Maior de 18 anos (exceto mães)
-\linebreak
-\linebreak
-*Ocupação; Trabalhador sem carteira assinada, autônomo, MEI (microempreendedor individual), desempregado, contribuinte individual da Previdência 
-\linebreak
-\linebreak
-*Renda; Renda por pessoa da família de até R\$ 522,50 ou renda familiar de até R\$ 3.135. E não ter recebido rendimentos tributáveis acima de R\$ 28.559,70 em 2018
-\linebreak
-\linebreak
-E ainda não tem direito quem já recebe seguro-desemprego, BPC, aposentadoria ou pensão
-\linebreak
-\linebreak
+Com isso, o auxílio emergência visa contemplar somente aqueles com:                                 
+
+*idade; Maior de 18 anos (exceto mães);
+
+*Ocupação; Trabalhador sem carteira assinada, autônomo, MEI (microempreendedor individual), desempregado, contribuinte individual da Previdência;
+
+*Renda; Renda por pessoa da família de até R\$ 522,50 ou renda familiar de até R\$ 3.135. E não ter recebido rendimentos tributáveis acima de R\$ 28.559,70 em 2018;
+
+E ainda não tem direito quem já recebe seguro-desemprego, BPC, aposentadoria ou pensão.
+
 \subsection{Problemas Solucionados}
 	No entanto, este programa trouxe outra adversidade, que é a superlotação e grandes filas em agências para o saque ou ainda para o cadastramento para a análise do auxílio emergêncial. Com isso, em 23 de maio, a caixa lançou o aplicativo, Caixa | Auxílio Emergêncial, para que esses problemas possam ser resolvídos.
 
@@ -86,13 +79,34 @@ E ainda não tem direito quem já recebe seguro-desemprego, BPC, aposentadoria o
 	Esta monografia tem o objetivo de auxiliar e dar opções para contornar as dificuldades que o Auxílio Emergencial esta sofrendo em relação à análise de dados de seu programa atualmente, visando uma possibilidade de solucionar sua deficiência na manipulação de dados, por meio de um gerenciamento de banco de dados avançado que beneficie, viávelmente, o sistema de análise de informações e apoio à decisão sem danificar informações pessoais.
 
 \section{Apresentar a solução de TI em alto nível e também relacionando-a com as áreas de SI (Banco de Dados, infraestrutura de TI, Engenharia de Software, Análise de Informações e Apoio à Decisão, Algoritmos, Projetos, Segurança, Governança, Uso da Internet …);}
-	Em vista da inevitabilidade de uma análise para eleger o status daqueles que necessitam ou não do benefício Auxílio Emergencial, percebe-se também a presença de um ou mais bancos de dados e diante da obrigação de analisar os dados de milhões de indivíduos, lógicamente nota-se a exigência de ferramentas digitais que auxiliem nesse processo.
+	Em vista da inevitabilidade de uma análise para eleger o status daqueles que necessitam ou não do benefício Auxílio Emergencial, percebe-se também a presença de um ou mais bancos de dados e diante da obrigação de analisar os dados de milhões de indivíduos, lógicamente nota-se a exigência de ferramentas digitais que auxiliem nesse processo. Para realizar esse processo a empresa de TI do governo, denominada Dataprev, irá utilizar os dados pessoais de cada um, que são informações relacionadas a pessoa natural identificada ou identificável, para determinar quem tem direito de receber ou não o benefício, a fim de obter esses dados para análise a Dataprev consulta diversas bases de dados já existentes, dentre as principais estão:
+*Cadastro app e CadÚnico;
+
+*Receita federal(CPF e IR);
+
+*CNIS;
+
+*Bancos públicos; 
+
+*FGTS;
+
+*Ministérios da Cidadania e Economia; 
+
+*INSS.
+
+	O CNIS, Cadastro Nacional de Informações Sociais, é a principal base dados utilizada, pois ela reúne bilhões de informações a respeito de vínculos empregatício, contribuições para o INSS, situação econômica, tanto de pessoas fisicas quanto de pessoas juridicas. Para fazer as análises fazem o cruzamento de dados, utilizando os dados já disponibilizados no cadastramento, como o CPF do solicitante e o CPF de quem mora na mesma residência que ele, assim como também consultará os bancos de dados já citados anteriormente. Dessa forma o governo vai organizar toda essa informação em uma tabela e verificar, de acordo com os critérios estabelecidos préviamente, quem possui o direito de adquirir a proteção financeira emergencial no período de enfrentamento à crise causada pela pandemia do Coronavírus - COVID 19.
 \linebreak
 \linebreak
-Conteúdo
+	O fato de de haver fraudes ou negação para quem precisa do auxilio, nos leva a concluir que há uma ineficência na manipulação de dados, e portanto a solução encontrada é a implementação de um sistema de informação e gerenciamento de dados mais avançado, especificamente, um MDM - master data manegement, que busca garantir que a empresa não utilize múltiplas versões dos mesmos dados em suas operações, como exemplo caso haja em um banco de dados informações desatualizadas de um indivíduo e em outro informações atualizadas, isso gera inconsistência e possíveis erros durante a análise de uma situação.
+\linebreak
+\linebreak
+	A base para desenvolver essa solução é o caso da empresa R. R. Donnelley relatado no livro "Sistemas de Informação Gerenciais" do Keneth e Jane Laudon, a empresa passou por dificuldades na manipulação de dados após a aquisição de algumas grandes empresas devido aos erros que os vários bancos de dados separados de cada causavam, para solucionar isso implementaram um MDM que consolidava essas informações, resolvendo assim sua situação.
+\linebreak
+\linebreak
+	O cenário atual é semelhante a esse relato, considerando que a deficiência na análise e gestão de informações de ditintos bancos de dados são similares, portanto com a implantação de uma gestão de dados mestre ou MDM, os dados seriam consolidados e registrados em um único arquivo mestre de forma a ser o mais eficiente possivel na coleta de dados, para que seja retido somente os dados mais atualizados, desse modo, consequentemente a detecção de pessoas que necessitam do Auxílio Emergêncial e os casos de fraudes seriam facilmente identificados, pois a infraestrutura de TI o sistema de apoio à decisão também serão, por consequência, melhorados.
 
 \section{Apresentar as conclusões}
-Conteúdo
+	Concluímos assim que, o desempenho de uma empresa depende do que ela pode ou não fazer com seus dados. E a forma como armazenam, organizam e gerenciam essas informações causam muita influência sobre a eficiência necessária para realizar uma determinada finalidade.
 
 \section{References}
 
