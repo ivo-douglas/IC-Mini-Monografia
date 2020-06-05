@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.30)  4 JUN 2020 17:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.30)  4 JUN 2020 22:26
 entering extended mode
 **"./E-Gov e Aplicativo Auxílio Emergencial Caixa.tex"
 ("E-Gov e Aplicativo Auxílio Emergencial Caixa.tex"
@@ -276,112 +276,109 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 5
-5.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
+6.
 ("C:\Users\Dan\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
+Underfull \hbox (badness 10000) in paragraph at lines 65--69
+
+ []
+
 [1
 
 {C:/Users/Dan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 74--78
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 97--107
+Underfull \hbox (badness 10000) in paragraph at lines 88--98
 
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 97--107
+Underfull \hbox (badness 1019) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 con-cluir que h[]a uma ine-fic[]encia na manipula[][]ao de da-d
 os, e por-tanto a solu[][]ao
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 97--107
+Underfull \hbox (badness 2932) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 en-con-trada []e a implementa[][]ao de um sis-tema de informa[]
 []ao e ge-ren-ci-a-mento
  []
 
 
-Underfull \hbox (badness 4048) in paragraph at lines 97--107
+Underfull \hbox (badness 4048) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 de da-dos mais avan[]ado, es-pe-ci-fi-ca-mente, um MDM - mas-te
 r data ma-ne-ge-
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 97--107
+Underfull \hbox (badness 1286) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 ment, que busca ga-ran-tir que a em-presa n[]ao uti-lize m[]ult
 iplas vers[]oes dos mes-
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 97--107
+Underfull \hbox (badness 3460) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 informa[][]oes de-sa-tu-a-li-za-das de um in-div[]duo e em ou-
 tro informa[][]oes atu-a-li-za-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--107
+Underfull \hbox (badness 10000) in paragraph at lines 88--98
 
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 97--107
+Underfull \hbox (badness 3713) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 A base para de-sen-vol-ver essa solu[][]ao []e o caso da em-pre
 sa R. R. Don-nel-
  []
 
 
-Underfull \hbox (badness 4699) in paragraph at lines 97--107
+Underfull \hbox (badness 4699) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 ley re-la-tado no li-vro "Sis-te-mas de Informa[][]ao Ge-ren-ci
 -ais"do Ke-neth e Jane
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 97--107
+Underfull \hbox (badness 2990) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 Lau-don, a em-presa pas-sou por di-fi-cul-da-des na manipula[][
 ]ao de da-dos ap[]os a
  []
 
 
-Underfull \hbox (badness 3396) in paragraph at lines 97--107
+Underfull \hbox (badness 3396) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 aquisi[][]ao de al-gu-mas gran-des em-pre-sas de-vido aos er-ro
 s que os v[]arios ban-
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 97--107
+Underfull \hbox (badness 1590) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 cos de da-dos se-pa-ra-dos de cada cau-sa-vam, para so-lu-ci-o-
 nar isso im-ple-men-ta-ram
  []
 
 
-Underfull \hbox (badness 3646) in paragraph at lines 97--107
+Underfull \hbox (badness 3646) in paragraph at lines 88--98
 \OT1/ptm/m/n/12 um MDM que con-so-li-dava es-sas informa[][]oes, re-sol-vendo a
 s-sim sua situa[][]ao.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--107
+Underfull \hbox (badness 10000) in paragraph at lines 88--98
 
  []
 
+[2]
 
-LaTeX Warning: Citation `knuth:84' on page 3 undefined on input line 114.
-
-
-LaTeX Warning: Citation `boulic:91' on page 3 undefined on input line 115.
+LaTeX Warning: Citation `knuth:84' on page 3 undefined on input line 105.
 
 
-LaTeX Warning: Citation `smith:99' on page 3 undefined on input line 115.
+LaTeX Warning: Citation `boulic:91' on page 3 undefined on input line 106.
 
 
-Underfull \vbox (badness 1320) has occurred while \output is active []
+LaTeX Warning: Citation `smith:99' on page 3 undefined on input line 106.
 
- [3]
+[3]
 No file "E-Gov e Aplicativo Auxílio Emergencial Caixa".bbl.
 [4] ("E-Gov e Aplicativo Auxílio Emergencial Caixa.aux")
 
@@ -389,13 +386,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3384 strings out of 480930
- 51816 string characters out of 2900699
- 313793 words of memory out of 3000000
- 19199 multiletter control sequences out of 15000+200000
+ 3383 strings out of 480930
+ 51808 string characters out of 2900699
+ 321793 words of memory out of 3000000
+ 19198 multiletter control sequences out of 15000+200000
  546178 words of font info for 48 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,8n,29p,908b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,29p,952b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
 C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mr8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/u
@@ -404,7 +401,7 @@ tmb8a.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
 mes/utmr8a.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 times/utmri8a.pfb>
 Output written on "E-Gov e Aplicativo Auxílio Emergencial Caixa.pdf" (4 pages,
- 79437 bytes).
+ 76631 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
